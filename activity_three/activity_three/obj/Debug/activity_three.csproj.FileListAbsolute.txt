@@ -1,0 +1,9 @@
+C:\Users\oo144\Desktop\activity3\activity_three\activity_three\bin\Debug\activity_three.exe.config
+C:\Users\oo144\Desktop\activity3\activity_three\activity_three\bin\Debug\activity_three.exe
+C:\Users\oo144\Desktop\activity3\activity_three\activity_three\bin\Debug\activity_three.pdb
+C:\Users\oo144\Desktop\activity3\activity_three\activity_three\obj\Debug\activity_three.csprojResolveAssemblyReference.cache
+C:\Users\oo144\Desktop\activity3\activity_three\activity_three\obj\Debug\activity_three.Form1.resources
+C:\Users\oo144\Desktop\activity3\activity_three\activity_three\obj\Debug\activity_three.Properties.Resources.resources
+C:\Users\oo144\Desktop\activity3\activity_three\activity_three\obj\Debug\activity_three.csproj.GenerateResource.Cache
+C:\Users\oo144\Desktop\activity3\activity_three\activity_three\obj\Debug\activity_three.exe
+C:\Users\oo144\Desktop\activity3\activity_three\activity_three\obj\Debug\activity_three.pdb
